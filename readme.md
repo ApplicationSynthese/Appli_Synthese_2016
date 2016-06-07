@@ -1,7 +1,7 @@
 #Application de Synthèse - IUT Lyon1 ASPE 2016
 
 Matière : Application de Synthèse
-Elèves : Martin BOLOT, Yoann MERLE, Karim OUBAH, Arthur ZICARO
+Elèves : Martin BOLOT, Yoann MERLE, Karim OUBAH, Rémy Fischer, Loïc Bronner
 
 ##Afin de travailler sur le projet
 
