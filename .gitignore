@@ -2,3 +2,4 @@ application/nbproject/*
 application/build.xml
 application/manifest.mf
 documents/~*
+/application/dist/
